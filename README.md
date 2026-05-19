@@ -1,121 +1,125 @@
-<h1 align="center">Hi 👋, I'm Raghad Abdelhaq</h1>
+<div align="center">
 
-<h3 align="center">Computer Science Student | Software Engineering Track | Frontend & Mobile Developer</h3>
+# Hi there, I'm Raghad Abdelhaq 👋
 
-<p align="center">
-  <a href="mailto:s12326539@stu.najah.edu">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/raghadabdelhaq55">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+### Computer Science Student | Frontend & Mobile Developer | UI/UX Enthusiast
+
+I enjoy building clean, user-friendly digital experiences and improving myself in full-stack development.
+
+<br/>
+
+<a href="mailto:s12326539@stu.najah.edu">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/raghadabdelhaq55">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Computer Science student at An-Najah National University, interested in frontend development, mobile application development, and UI/UX design.
+I am a Computer Science student at **An-Najah National University**, interested in creating modern, responsive, and user-focused applications.
 
-I enjoy building clean, user-friendly applications and improving myself in full-stack development.  
-I have worked on academic and practical projects using React Native, Expo, Laravel, JavaScript, C++, and database concepts.
+I focus on improving my skills in **frontend development**, **mobile app development**, **UI/UX design**, and **backend fundamentals**.  
+I enjoy turning ideas into real projects with clean interfaces and organized code.
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 What I'm Currently Working On
 
-- Full Stack Development
-- React Native & Expo
-- Laravel Backend Development
-- Software Testing & QA
-- UI/UX Design
+- Building mobile applications using **React Native & Expo**
+- Improving my skills in **Full Stack Development**
+- Learning more about **Laravel backend development**
+- Practicing **Software Testing & QA**
+- Designing clean user interfaces using **Figma**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
+
+### Languages & Databases
+
+<img src="https://skillicons.dev/icons?i=cpp,js,python,php,mysql&perline=5" />
+
+<br/>
 
 ### Frontend & Mobile
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,expo&perline=5" />
+
+<br/>
+
+### Tools & Design
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" />
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-### Lumixy – Mobile Service Provider App
-A React Native / Expo mobile application for service providers.
+### 📱 Lumixy — Mobile Service Provider App
 
-Worked on provider-side screens including:
+A mobile application built using **React Native** and **Expo** for service providers.
 
-- Provider Profile
-- Edit Profile
-- Waiting Approval Screen
-- Provider Registration Flow
-- Service Information Screens
+My work focused on provider-side screens and flow, including:
+
+- Provider Profile screen
+- Edit Profile screen
+- Waiting Approval screen
+- Provider Registration flow
+- Service information screens
+- UI improvements and screen organization
 
 🔗 Repository: [Lumixy](https://github.com/YousefShabib/Lumixy)
 
 ---
 
-### Evently – Event Management System
-A web-based event management project focused on user interfaces, authentication pages, and event-related screens.
+### 🎟 Evently — Event Management System
 
-Technologies used:
+A web-based event management project focused on creating a clean and organized user experience for event-related pages.
 
-- HTML
-- CSS
-- JavaScript
-- Laravel Blade
-- Tailwind CSS
+Worked on:
+
+- Authentication pages
+- Event interface screens
+- Responsive layouts
+- Frontend styling and structure
+
+**Technologies used:**  
+HTML, CSS, JavaScript, Laravel Blade, Tailwind CSS
 
 ---
 
-### Intelilearn – UI/UX Design
-A learning platform UI design created using Figma.
+### 🎓 Intelilearn — UI/UX Learning Platform Design
+
+A UI/UX design project created using **Figma** for an online learning platform.
 
 Designed screens such as:
 
-- Search Page
-- Course Details
-- Payment Method
-- Add Card
-- Filters
+- Search page
+- Course details page
+- Payment method page
+- Add card page
+- Filters interface
 
 ---
 
-## 📊 GitHub Stats
+## ✨ Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raghadabdelhaq55&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghadabdelhaq55&layout=compact&theme=default" />
-</p>
-
----
-
-## 📫 Contact Me
-
-- Email: s12326539@stu.najah.edu
-- GitHub: [raghadabdelhaq55](https://github.com/raghadabdelhaq55)
-- LinkedIn: Add your LinkedIn link here
+```text
+Frontend Development     React Native & Expo
+UI/UX Design             Figma
+Backend Basics           Laravel & PHP
+Programming              C++, JavaScript, Python
+Databases                SQL / MySQL
+Tools                    Git, GitHub, VS Code
