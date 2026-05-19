@@ -14,7 +14,7 @@ I enjoy building clean, user-friendly digital experiences and improving myself i
 <a href="https://github.com/raghadabdelhaq55">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/raghad-abdalhaq-861702363">
+<a href="https://www.linkedin.com/in/raghad-abdalhaq-861702363">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
